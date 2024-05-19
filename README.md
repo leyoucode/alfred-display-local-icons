@@ -9,4 +9,4 @@
 
 2. https://www.iconfont.cn/
 
-(icon)[icon-select-by-alfred.jpg]
+![image](icon-select-by-alfred.jpg)
